@@ -1,0 +1,1143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\DatMario\\Mario-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Goomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Goomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Goomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Goomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CollisionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\CollisionManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CollisionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\CollisionManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CheepCheep.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\CheepCheep.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Koopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Koopa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Koopa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Koopa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PiranhaPlant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\PiranhaPlant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\PlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PiranhaPlant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\PiranhaPlant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FirePlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\FirePlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\BulletBill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\BulletBill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallPlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SmallPlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mushroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Mushroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mushroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Mushroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallMarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SmallMarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Mario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\PlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Luigi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Luigi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Flower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Flower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Star.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Star.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\LuigiForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\LuigiForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Flower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Flower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperPlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SuperPlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperPlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SuperPlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FirePlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\FirePlayerForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireMarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\FireMarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireMarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\FireMarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperLuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SuperLuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperMarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SuperMarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperMarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SuperMarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallPlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SmallPlayerForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallMarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SmallMarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallLuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SmallLuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\LuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\LuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\MarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\MarioForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallLuigiForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SmallLuigiForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Luigi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Luigi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\MarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\MarioForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperLuigiForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\SuperLuigiForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Mario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireLuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\FireLuigiForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Animator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Animator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Animator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Animator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E526DA-A711-4C32-A206-4B5AEF871B63}|Mario-Test\\Mario-Test.vcxproj|solutionrelative:Mario-Test\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\DatMario\\Mario-Test\\include\\SFML\\Graphics\\Transformable.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\SFML\\Graphics\\Transformable.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goomba.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Goomba.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Goomba.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Goomba.cpp",
+              "RelativeToolTip": "Mario-Test\\Goomba.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T12:17:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Game.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Game.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Game.h",
+              "RelativeToolTip": "Mario-Test\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T15:36:13.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camera.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Camera.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Camera.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Camera.h",
+              "RelativeToolTip": "Mario-Test\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T04:41:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheepCheep.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CheepCheep.h",
+              "RelativeDocumentMoniker": "Mario-Test\\CheepCheep.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CheepCheep.h",
+              "RelativeToolTip": "Mario-Test\\CheepCheep.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T10:59:31.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coin.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Coin.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Coin.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Coin.h",
+              "RelativeToolTip": "Mario-Test\\Coin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T15:16:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\main.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\main.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\main.cpp",
+              "RelativeToolTip": "Mario-Test\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T12:32:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goomba.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Goomba.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Goomba.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Goomba.h",
+              "RelativeToolTip": "Mario-Test\\Goomba.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T12:15:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Game.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Game.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Game.cpp",
+              "RelativeToolTip": "Mario-Test\\Game.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T10:35:22.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollisionManager.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CollisionManager.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\CollisionManager.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CollisionManager.cpp",
+              "RelativeToolTip": "Mario-Test\\CollisionManager.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T15:37:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Coin.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Coin.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Coin.cpp",
+              "RelativeToolTip": "Mario-Test\\Coin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T15:41:58.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Transformable.hpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\include\\SFML\\Graphics\\Transformable.hpp",
+              "RelativeDocumentMoniker": "include\\SFML\\Graphics\\Transformable.hpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\include\\SFML\\Graphics\\Transformable.hpp",
+              "RelativeToolTip": "include\\SFML\\Graphics\\Transformable.hpp",
+              "ViewState": "AgIAANIAAAAAAAAAAIAwwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T02:05:07.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollisionManager.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CollisionManager.h",
+              "RelativeDocumentMoniker": "Mario-Test\\CollisionManager.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\CollisionManager.h",
+              "RelativeToolTip": "Mario-Test\\CollisionManager.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T15:37:28.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Camera.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Camera.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Camera.cpp",
+              "RelativeToolTip": "Mario-Test\\Camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T10:57:13.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Koopa.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Koopa.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Koopa.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Koopa.cpp",
+              "RelativeToolTip": "Mario-Test\\Koopa.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T09:34:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PiranhaPlant.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PiranhaPlant.h",
+              "RelativeDocumentMoniker": "Mario-Test\\PiranhaPlant.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PiranhaPlant.h",
+              "RelativeToolTip": "Mario-Test\\PiranhaPlant.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T14:11:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Koopa.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Koopa.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Koopa.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Koopa.h",
+              "RelativeToolTip": "Mario-Test\\Koopa.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T09:34:11.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PiranhaPlant.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PiranhaPlant.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\PiranhaPlant.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PiranhaPlant.cpp",
+              "RelativeToolTip": "Mario-Test\\PiranhaPlant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T14:11:55.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PlayerForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\PlayerForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PlayerForm.h",
+              "RelativeToolTip": "Mario-Test\\PlayerForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T10:04:10.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Enemy.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Enemy.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Enemy.h",
+              "RelativeToolTip": "Mario-Test\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T11:58:55.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Player.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Player.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Player.h",
+              "RelativeToolTip": "Mario-Test\\Player.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T11:07:53.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Enemy.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Enemy.cpp",
+              "RelativeToolTip": "Mario-Test\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T15:39:21.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FirePlayerForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FirePlayerForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\FirePlayerForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FirePlayerForm.h",
+              "RelativeToolTip": "Mario-Test\\FirePlayerForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T03:17:47.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BulletBill.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\BulletBill.h",
+              "RelativeDocumentMoniker": "Mario-Test\\BulletBill.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\BulletBill.h",
+              "RelativeToolTip": "Mario-Test\\BulletBill.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T15:35:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Map.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Map.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Map.cpp",
+              "RelativeToolTip": "Mario-Test\\Map.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAD4vzYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T11:25:19.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Block.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Block.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Block.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Block.cpp",
+              "RelativeToolTip": "Mario-Test\\Block.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T06:50:30.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Player.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Player.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Player.cpp",
+              "RelativeToolTip": "Mario-Test\\Player.cpp",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAIwPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T11:15:51.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SmallPlayerForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallPlayerForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\SmallPlayerForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallPlayerForm.cpp",
+              "RelativeToolTip": "Mario-Test\\SmallPlayerForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T03:14:59.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Item.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Item.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Item.cpp",
+              "RelativeToolTip": "Mario-Test\\Item.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T17:46:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Item.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Item.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Item.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Item.h",
+              "RelativeToolTip": "Mario-Test\\Item.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T17:45:13.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Mushroom.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mushroom.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Mushroom.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mushroom.cpp",
+              "RelativeToolTip": "Mario-Test\\Mushroom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T04:20:48.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Mushroom.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mushroom.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Mushroom.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mushroom.h",
+              "RelativeToolTip": "Mario-Test\\Mushroom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T06:47:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SmallMarioForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallMarioForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\SmallMarioForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallMarioForm.cpp",
+              "RelativeToolTip": "Mario-Test\\SmallMarioForm.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T15:51:55.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Mario.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mario.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Mario.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mario.cpp",
+              "RelativeToolTip": "Mario-Test\\Mario.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T17:11:01.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayerForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PlayerForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\PlayerForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\PlayerForm.cpp",
+              "RelativeToolTip": "Mario-Test\\PlayerForm.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T10:19:19.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Block.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Block.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Block.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Block.h",
+              "RelativeToolTip": "Mario-Test\\Block.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T06:50:49.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Luigi.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Luigi.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Luigi.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Luigi.h",
+              "RelativeToolTip": "Mario-Test\\Luigi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T15:49:29.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Flower.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Flower.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Flower.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Flower.h",
+              "RelativeToolTip": "Mario-Test\\Flower.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T15:16:40.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Star.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Star.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Star.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Star.h",
+              "RelativeToolTip": "Mario-Test\\Star.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T15:17:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LuigiForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\LuigiForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\LuigiForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\LuigiForm.h",
+              "RelativeToolTip": "Mario-Test\\LuigiForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T16:15:38.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Flower.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Flower.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Flower.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Flower.cpp",
+              "RelativeToolTip": "Mario-Test\\Flower.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T15:42:15.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Star.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Star.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Star.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Star.cpp",
+              "RelativeToolTip": "Mario-Test\\Star.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T15:42:23.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SuperPlayerForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperPlayerForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\SuperPlayerForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperPlayerForm.cpp",
+              "RelativeToolTip": "Mario-Test\\SuperPlayerForm.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4vzMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T03:16:35.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SuperPlayerForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperPlayerForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\SuperPlayerForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperPlayerForm.h",
+              "RelativeToolTip": "Mario-Test\\SuperPlayerForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T03:16:19.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FirePlayerForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FirePlayerForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\FirePlayerForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FirePlayerForm.cpp",
+              "RelativeToolTip": "Mario-Test\\FirePlayerForm.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4vz4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T03:18:55.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FireMarioForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireMarioForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\FireMarioForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireMarioForm.h",
+              "RelativeToolTip": "Mario-Test\\FireMarioForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T15:49:12.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FireMarioForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireMarioForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\FireMarioForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireMarioForm.cpp",
+              "RelativeToolTip": "Mario-Test\\FireMarioForm.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:13:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SuperMarioForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperMarioForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\SuperMarioForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperMarioForm.h",
+              "RelativeToolTip": "Mario-Test\\SuperMarioForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T15:48:54.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SmallPlayerForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallPlayerForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\SmallPlayerForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallPlayerForm.h",
+              "RelativeToolTip": "Mario-Test\\SmallPlayerForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T03:14:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SuperLuigiForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperLuigiForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\SuperLuigiForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperLuigiForm.cpp",
+              "RelativeToolTip": "Mario-Test\\SuperLuigiForm.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:23:28.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LuigiForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\LuigiForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\LuigiForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\LuigiForm.cpp",
+              "RelativeToolTip": "Mario-Test\\LuigiForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:19:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SuperMarioForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperMarioForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\SuperMarioForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperMarioForm.cpp",
+              "RelativeToolTip": "Mario-Test\\SuperMarioForm.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:08:56.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MarioForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\MarioForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\MarioForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\MarioForm.cpp",
+              "RelativeToolTip": "Mario-Test\\MarioForm.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T15:55:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Resources.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Resources.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Resources.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Resources.cpp",
+              "RelativeToolTip": "Mario-Test\\Resources.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T10:59:26.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SmallMarioForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallMarioForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\SmallMarioForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallMarioForm.h",
+              "RelativeToolTip": "Mario-Test\\SmallMarioForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T15:48:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SmallLuigiForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallLuigiForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\SmallLuigiForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallLuigiForm.cpp",
+              "RelativeToolTip": "Mario-Test\\SmallLuigiForm.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:22:09.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Resources.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Resources.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Resources.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Resources.h",
+              "RelativeToolTip": "Mario-Test\\Resources.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T10:55:07.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SmallLuigiForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallLuigiForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\SmallLuigiForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SmallLuigiForm.h",
+              "RelativeToolTip": "Mario-Test\\SmallLuigiForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T16:21:04.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Luigi.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Luigi.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Luigi.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Luigi.cpp",
+              "RelativeToolTip": "Mario-Test\\Luigi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T15:51:27.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MarioForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\MarioForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\MarioForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\MarioForm.h",
+              "RelativeToolTip": "Mario-Test\\MarioForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T15:47:55.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SuperLuigiForm.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperLuigiForm.h",
+              "RelativeDocumentMoniker": "Mario-Test\\SuperLuigiForm.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\SuperLuigiForm.h",
+              "RelativeToolTip": "Mario-Test\\SuperLuigiForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T16:22:53.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Mario.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mario.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Mario.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Mario.h",
+              "RelativeToolTip": "Mario-Test\\Mario.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T17:00:38.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FireLuigiForm.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireLuigiForm.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\FireLuigiForm.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\FireLuigiForm.cpp",
+              "RelativeToolTip": "Mario-Test\\FireLuigiForm.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:24:52.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AssetManager.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\AssetManager.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\AssetManager.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\AssetManager.cpp",
+              "RelativeToolTip": "Mario-Test\\AssetManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T17:10:10.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AssetManager.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\AssetManager.h",
+              "RelativeDocumentMoniker": "Mario-Test\\AssetManager.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\AssetManager.h",
+              "RelativeToolTip": "Mario-Test\\AssetManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T17:09:57.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Animator.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Animator.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Animator.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Animator.cpp",
+              "RelativeToolTip": "Mario-Test\\Animator.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T17:09:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Animator.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Animator.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Animator.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Animator.h",
+              "RelativeToolTip": "Mario-Test\\Animator.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T17:08:39.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Tile.h",
+              "DocumentMoniker": "D:\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.h",
+              "ToolTip": "D:\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.h",
+              "RelativeToolTip": "..\\..\\..\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T15:08:27.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "D:\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.cpp",
+              "ToolTip": "D:\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.cpp",
+              "RelativeToolTip": "..\\..\\..\\DAI_HOC\\23-PHUONG_PHAP_LAP_TRINH_HUONG_DOI_TUONG\\TESTING\\Mario-Test\\Mario-Test\\Tile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:01:02.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Renderer.h",
+              "RelativeDocumentMoniker": "Mario-Test\\Renderer.h",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Renderer.h",
+              "RelativeToolTip": "Mario-Test\\Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T12:53:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Mario-Test\\Renderer.cpp",
+              "ToolTip": "D:\\New folder\\DatMario\\Mario-Test\\Mario-Test\\Renderer.cpp",
+              "RelativeToolTip": "Mario-Test\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T12:55:20.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

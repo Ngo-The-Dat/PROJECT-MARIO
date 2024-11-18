@@ -1,0 +1,7 @@
+﻿  CheepCheep.cpp
+  CollisionManager.cpp
+  Game.cpp
+  main.cpp
+D:\New folder\DatMario\Mario-Test\Mario-Test\main.cpp(23,30): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  Generating Code...
+  Mario-Test.vcxproj -> D:\New folder\DatMario\Mario-Test\x64\Debug\Mario-Test.exe
